@@ -10,7 +10,7 @@ https://youtu.be/2ys7bdeC44U
 Since the robot leg structure is a planar four-bar linkage and the axis of the hip pitch actuator and the axis of the knee actuator are collinear, we can achieve gravity balance with two springs as follows:
 
 <p align="center">
-    <img src="https://github.com/Qincheng-Sheng/3-RRS_chains_Climbing_Parallel_Robot/blob/main/pictures/structure.png" alt="system" width= "250">
+    <img src="https://github.com/Qincheng-Sheng/3-RRS_chains_Climbing_Parallel_Robot/blob/main/pictures/structure.png" alt="system" width= "350">
 </p>
 
 
