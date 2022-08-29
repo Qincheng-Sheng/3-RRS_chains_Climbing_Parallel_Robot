@@ -1,7 +1,7 @@
 # 3-RRS_chains_Climbing_Parallel_Robot
 Final Project of Course 6614 ADV Topics in Robotics
 
-The project is applying for a patent, the patent application number is：
+The project is applying for a patent in china, the patent application number is：2022106307569	
 
 ## Project Presentation in Youtube
 https://youtu.be/2ys7bdeC44U
