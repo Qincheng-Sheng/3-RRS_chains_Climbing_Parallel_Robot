@@ -21,7 +21,7 @@ Rotating joint 1 makes the upper leg swing, and rotating joint 2 makes the lower
 
 Hip pitch and knee Rotation. 
 <p align="center">
-        <img src="https://github.com/Qincheng-Sheng3-RRS_chains_Climbing_Parallel_Robot/blob/main/pictures/curve.gif" alt="system" width= "350" />
+        <img src="https://github.com/Qincheng-Sheng/3-RRS_chains_Climbing_Parallel_Robot/blob/main/pictures/curve.gif" alt="system" width= "350" />
         <img src="https://github.com/Qincheng-Sheng/3-RRS_chains_Climbing_Parallel_Robot/blob/main/pictures/straight.gif" alt="system" width= "350" />
 </p>
  
